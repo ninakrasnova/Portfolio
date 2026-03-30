@@ -8,4 +8,5 @@
 - `votes` — содержит информацию о голосах за посты
 
 ## Структура данных
-![Схема базы данных](advanced_sql/advanced_sql.png)
+
+![Структура данных](advanced_sql/advanced_sql.png)
