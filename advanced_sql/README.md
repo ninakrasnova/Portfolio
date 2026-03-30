@@ -9,4 +9,4 @@
 
 ## Структура данных
 
-![Структура данных](advanced_sql/Database schema.png)
+![Структура данных](advanced_sql/Database_schema.png)
