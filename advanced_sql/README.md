@@ -9,4 +9,4 @@
 
 ## Структура данных
 
-![Структура данных](<img width="1280" height="918" alt="advanced_sql — крупный размер" src="https://github.com/user-attachments/assets/3f3eb9c9-3845-4136-8e4d-5169fe13a7f8" />)
+![Структура данных](temp/advanced_sql.png)
