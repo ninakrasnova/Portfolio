@@ -9,4 +9,4 @@
 
 ## Структура данных
 
-![Структура данных](temp/advanced_sql.png)
+![Структура данных](../temp/advanced_sql.png)
